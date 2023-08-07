@@ -15,6 +15,7 @@ import 'package:thunder/routes.dart';
 import 'package:thunder/core/enums/theme_type.dart';
 import 'package:thunder/core/singletons/database.dart';
 import 'package:thunder/core/theme/bloc/theme_bloc.dart';
+
 import 'package:thunder/core/auth/bloc/auth_bloc.dart';
 
 void main() async {
