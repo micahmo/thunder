@@ -84,7 +84,7 @@ jobs:
         fi
         
         if [[ $line == "            ]" ]]; then 
-            echo "$safariManifestInstances" >> "ios/Open In Thunder/Resources/manifest-new.json"
+            printf "$safariManifestInstances" >> "ios/Open In Thunder/Resources/manifest-new.json"
             inSection=false
         fi
         
@@ -106,7 +106,7 @@ jobs:
         fi
         
         if [[ $line == "];" ]]; then 
-            echo "$safariContentInstances" >> "ios/Open In Thunder/Resources/content-new.js"
+            printf "$safariContentInstances" >> "ios/Open In Thunder/Resources/content-new.js"
             inSection=false
         fi
         
