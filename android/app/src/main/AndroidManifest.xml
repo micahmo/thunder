@@ -108,9 +108,7 @@
               <data android:host="reddthat.com" />
               <data android:host="sh.itjust.works" />
               <data android:host="slrpnk.net" />
-              <data android:host="sopuli.xyz" />
               <data android:host="startrek.website" />
-              <data android:host="szmer.info" />
               <data android:host="ttrpg.network" />
               <!--#INSTANCE_LIST_END#-->
             </intent-filter>

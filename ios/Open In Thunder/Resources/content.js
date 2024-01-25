@@ -46,9 +46,7 @@ let instances = [
     "reddthat.com",
     "sh.itjust.works",
     "slrpnk.net",
-    "sopuli.xyz",
     "startrek.website",
-    "szmer.info",
     "ttrpg.network"
 ];
 
