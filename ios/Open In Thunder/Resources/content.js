@@ -9,7 +9,6 @@ let instances = [
     "feddit.dk",
     "feddit.it",
     "feddit.nl",
-    "feddit.nu",
     "feddit.org",
     "feddit.uk",
     "hexbear.net",
